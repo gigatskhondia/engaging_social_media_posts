@@ -6,6 +6,7 @@ The app helps in creating engaging posts to share on social media. Input a short
 
 #### INPUT
 my_thoughts = 'Robots might take over the world'
+
 path_to_photo_album = './photos/'
 
 #### OUTPUT
