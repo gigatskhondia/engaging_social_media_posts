@@ -14,7 +14,3 @@ path_to_photo_album = './photos/'
 ![alt text](https://github.com/gigatskhondia/Engaging_Social_Media_Posts/blob/master/photos/robots.jpg)
 
 'The glow wands definitely make a statement in the dark night'
-
-
-
-#### Link to the app to follow soon...
