@@ -2,7 +2,7 @@
 
 The app helps in creating engaging posts to share on social media. Input a short sentence describing your thoughts and provide a path to a photo album. The app selects the photo that reflects your mood the best and creates an engaging caption to share both on a social media platform.
 
-## Test it out yourself at https://gigala.ngrok.io
+## Test it out yourself at https://silent-fuze-250117.appspot.com
 
 #### INPUT
 my_thoughts = 'Robots might take over the world'
