@@ -14,3 +14,7 @@ path_to_photo_album = './photos/'
 'The glow wands definitely make a statement in the dark night'
 
 
+
+### Do you like the project? Star me to support it!
+
+
